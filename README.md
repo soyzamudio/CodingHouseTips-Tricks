@@ -2,6 +2,8 @@
 
 README with tips and tricks to improve and find more efficients ways of working with our environments.
 
+# Command Line Tip
+
 I recommend using aliases to access your main folder faster and moving around CLI faster.
 
 You can access aliases using:
