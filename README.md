@@ -30,3 +30,30 @@ Then in Command line you can use brack to open any file
 ```
 brack app.js
 ```
+Here are a few aliases for listing files in a directory:
+```
+alias ll='ls -al'
+alias la='ls -A'
+alias l='ls -CF'
+```
+Here is a list aliases for various Git commands:
+```
+alias g='git'
+alias ga='git add -A'
+alias gb='git branch -a'
+alias gc='git commit -v -m'
+alias gca='git commit -a -v'
+alias gco='git checkout'
+alias gd='git diff'
+alias gds='git diff --staged'
+alias gdh='git diff HEAD'
+alias gsh='git push'
+alias gll='git pull'
+alias gpr='git pull --rebase'
+alias gst='git status -sb'
+alias gap='git add -p'
+alias grc='git rebase --continue'
+alias gfa='git fetch --all'
+alias gw='git branch -a --contains'
+alias gld='git log --decorate --oneline'
+```
